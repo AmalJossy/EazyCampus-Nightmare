@@ -1,0 +1,13 @@
+{
+  "name": "nightmare",
+  "version": "1.0.0",
+  "description": "Browser automation",
+  "main": "index.js",
+  "author": "Amal Jossy",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "nightmare": "^3.0.1"
+  }
+}
