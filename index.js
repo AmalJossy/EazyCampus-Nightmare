@@ -1,5 +1,5 @@
 const Nightmare = require('nightmare')
-const nightmare = Nightmare({ show: false })
+const nightmare = Nightmare({ show: true })
 const express = require('express');
 const bodyParser = require('body-parser');
 const app = express();
